@@ -9,8 +9,9 @@ import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { createUser } from "@/database/auth";
 import { validateEmail, validatePassword } from "@/utils/validate-data";
-import { addUser } from "@/database/service";
+import { addUser, addOrder } from "@/database/service";
 import { User } from "@/models/user";
+import { Order } from "@/models/order";
 import { Checkbox } from "@/components/ui/checkbox";
 import {
   SelectValue,
@@ -115,11 +116,13 @@ export function ContactForm() {
 
     }
 
-
     const newUserCredentials = await createUser(formData.email, formData.password);
     const uid = newUserCredentials.user.uid;
 
-    addUser(new User(uid, formData.visibleName, formData.firstName, formData.lastName, formData.email, formData.phoneNumber, formData.serviceType, formData.academicSubject, formData.programmingLanguage, formData.budget, parseInt(formData.wordCount), new Date(formData.deliveryDate), formData.additionalInstructions, "Document"));
+    const user: User = new User(uid, formData.visibleName, formData.firstName, formData.lastName, formData.email, formData.phoneNumber);
+    addUser(user);
+
+    const order: Order = new Order()
   }
 
   return (
