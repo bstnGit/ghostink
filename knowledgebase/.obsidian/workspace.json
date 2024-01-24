@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4d50c805cc8742",
+        "id": "d416e47907870529",
         "type": "tabs",
         "children": [
           {
-            "id": "c3488129de59227f",
+            "id": "810f3358fe304662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer forum/git/How to contribute to the knowledgebase.md",
+                "file": "Welcome to the GhostInk Knowledgebase.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9648577970763b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "developer forum/git/How to contribute to the repository.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer forum/git/How to contribute to the knowledgebase.md",
+                "file": "Welcome to the GhostInk Knowledgebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer forum/git/How to contribute to the knowledgebase.md",
+                "file": "Welcome to the GhostInk Knowledgebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer forum/git/How to contribute to the knowledgebase.md"
+                "file": "Welcome to the GhostInk Knowledgebase.md"
               }
             }
           }
@@ -158,17 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3488129de59227f",
+  "active": "810f3358fe304662",
   "lastOpenFiles": [
     "developer forum/git/How to contribute to the repository.md",
-    "developer forum/git/How to contribute to the knowledgebase.md",
+    "Welcome to the GhostInk Knowledgebase.md",
+    "test/test2/How.md",
+    "test/test2",
+    "test",
+    "developer.md",
     "user stories/GHOS-1.md",
+    "developer forum/Beta 1.0/General.md",
+    "developer forum/Beta 1.0",
+    "developer forum/git/How to contribute to the knowledgebase.md",
     "developer forum/git/Untitled.md",
     "developer forum/git",
     "2024-01-24.md",
     "database.canvas",
     "developer forum",
-    "user stories",
-    "Welcome to the GhostInk Knowledgebase.md"
+    "user stories"
   ]
 }
