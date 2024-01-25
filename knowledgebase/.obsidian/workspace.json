@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user stories/GHOS-1.md",
+                "file": "developer forum/agile/How to write user stories.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user stories/GHOS-1.md",
+                "file": "developer forum/agile/How to write user stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "user stories/GHOS-1.md",
+                "file": "developer forum/agile/How to write user stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "user stories/GHOS-1.md"
+                "file": "developer forum/agile/How to write user stories.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   "active": "da7fc8406b11f986",
   "lastOpenFiles": [
     "flows.canvas",
-    "database.canvas",
     "user stories/GHOS-1.md",
+    "database.canvas",
     "developer forum/agile/How to write user stories.md",
     "developer forum/agile",
     "Welcome to the GhostInk Knowledgebase.md",

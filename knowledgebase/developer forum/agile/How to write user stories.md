@@ -7,6 +7,8 @@
 > A user story is an informal, **general explanation** of a software feature written from the perspective of the end user or customer.
 > 
 > An epic is a user story that contains smaller user stories, or tasks. User stories need to be split up until they cant get smaller.
+> 
+> Source: https://www.atlassian.com/agile/project-management/user-stories#:~:text=A%20user%20story%20is%20the,the%20end%20user%20or%20customer.
 
 
 
