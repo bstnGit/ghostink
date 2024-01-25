@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to the GhostInk Knowledgebase.md",
+                "file": "user stories/GHOS-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to the GhostInk Knowledgebase.md",
+                "file": "user stories/GHOS-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to the GhostInk Knowledgebase.md",
+                "file": "user stories/GHOS-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to the GhostInk Knowledgebase.md"
+                "file": "user stories/GHOS-1.md"
               }
             }
           }
@@ -147,22 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "810f3358fe304662",
+  "active": "da7fc8406b11f986",
   "lastOpenFiles": [
-    "developer forum/git/How to contribute to the repository.md",
+    "flows.canvas",
+    "database.canvas",
+    "user stories/GHOS-1.md",
+    "developer forum/agile/How to write user stories.md",
+    "developer forum/agile",
     "Welcome to the GhostInk Knowledgebase.md",
+    "developer forum/git/How to contribute to the repository.md",
     "test/test2/How.md",
     "test/test2",
     "test",
     "developer.md",
-    "user stories/GHOS-1.md",
     "developer forum/Beta 1.0/General.md",
     "developer forum/Beta 1.0",
     "developer forum/git/How to contribute to the knowledgebase.md",
     "developer forum/git/Untitled.md",
     "developer forum/git",
     "2024-01-24.md",
-    "database.canvas",
     "developer forum",
     "user stories"
   ]
